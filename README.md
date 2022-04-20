@@ -1,6 +1,6 @@
 # Hugo Pereira & [BadiiiiX](https://github.com/BadiiiiX)
 
-**IMPORTANT** : Ce projet est aucunement un projet personnel et a pour but éducatif - Projet pour Université Paris Cité. Ce dernier était à faire en binôme et il constitue notre premier projet de développement.
+**IMPORTANT** : Ce projet est aucunement un projet personnel. Il a été fait dans le cadre de ma première année de BUT informatique à l'Université Paris Cité. Ce dernier était à faire en binôme et il constitue notre premier projet de développement.
 
 ## Description
 
