@@ -1,6 +1,6 @@
-# WTA - IUT Paris Rives-de-seine
+# Hugo Pereira & (Badiiix)[https://github.com/badiiix]
 
-**IMPORTANT** : Ce projet est aucunement un projet personnel et a pour but éducatif - Projet pour Université Paris Cité.
+**IMPORTANT** : Ce projet est aucunement un projet personnel et a pour but éducatif - Projet pour Université Paris Cité. Ce dernier était à faire en binôme et il constitue notre premier projet de développement.
 
 ## Description
 
