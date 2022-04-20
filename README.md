@@ -1,10 +1,10 @@
 # WTA - IUT Paris Rives-de-seine
 
-**IMPORTANT** : Ce projet est aucunement un projet personnel et a pour but éducatif; Projet pour Université de Paris.\
+**IMPORTANT** : Ce projet est aucunement un projet personnel et a pour but éducatif - Projet pour Université Paris Cité.
 
 ## Description
 
-Cette application permet de créer et gérer en ligne de commande un tournoi féminin de Tennis factice.\
+Cette application permet de créer et gérer en ligne de commande un tournoi féminin de Tennis factice.
 
 ## Utilisation
 
@@ -21,5 +21,5 @@ Il existe 5 commandes, à lancer de manière à faire : `nom_commande <arguments
 - `afficher_classement`
 
 ## Informations
-Le code peut être utilisé et modifié à votre guise.\
+Le code peut être utilisé et modifié à votre guise.
 
