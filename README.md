@@ -1,4 +1,4 @@
-# Hugo Pereira & [Badiiix](https://github.com/badiiix)
+# Hugo Pereira & [BadiiiiX](https://github.com/BadiiiiX)
 
 **IMPORTANT** : Ce projet est aucunement un projet personnel et a pour but éducatif - Projet pour Université Paris Cité. Ce dernier était à faire en binôme et il constitue notre premier projet de développement.
 
